@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/SpringBootDemoApplication.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/dao/PersonRepository.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/domain/Greeting.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/domain/Person.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/domain/Quote.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/domain/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/domain/Value.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/form/PersonForm.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/service/GithubLookupService.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/AsyncThreadController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/DatabaseDemoController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/GreetingController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/HelloController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/RedisController.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/ScheduledTasks.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/fangji/api/web/ValidatingFormController.java" charset="UTF-8" />
+  </component>
+</project>
